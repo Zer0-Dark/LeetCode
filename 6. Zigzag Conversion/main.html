@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        var convert = function (s, numRows) {
+            const rows = []; // where string in each row stored
+            let row = 0, step = 1;
+
+            for (let i = 0; i < s.length; i++) {
+                // rows[row] = rows[row] ? rows[row] + s[i] : s[i];
+                if(rows[row] = rows[row]){
+                    rows[row] = rows[row] + s[i]
+                }else{
+                    rows[row] = s[i];
+                } // add the char to current row string
+                row += step;  // update the row
+                console.log(row);
+                console.log(step);
+                console.log(rows);
+                if (row === numRows - 1 || row === 0) step *= -1; // if it hit the border, turn the direction
+            }
+
+            return rows.join('') // join all the rows and return
+        };
+
+        console.log(convert("ABCDEF", 3));
+// console.log(s.length);
+// let test = s[0] + s[2] + s[4];
+// test += s[1] + s[3] + s[5];
+// return test
+
+    </script>
+</body>
+
+</html>
