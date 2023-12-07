@@ -1,5 +1,5 @@
 ﻿### All my LeetCode problems that i solved :D
-total problems : 43
+Total Problems : **43**
 #### the problems list : 
   - 1.TwoSum
   - 2.Add Two Numbers

@@ -17,12 +17,14 @@ var addTwoNumbers = function (l1, l2) {
     while (l1 || l2 || carry) {
         //store the sum of node values of l1 and l2 and carry
         sum = (l1 ? l1.val : 0) + (l2 ? l2.val : 0) + carry
+        console.log(sum)
         //if sum is greater then or equal to 10 it store 10/10 = 1 as carry 20/10 = 2 as carry
         carry = Math.floor(sum / 10)
+        console.log(carry)
 
         //calculate and store sum/10 its remainder if sum is 17/10 = 7 orignal sum is retrieved
         sum %= 10
-
+        console.log(sum)
         //add a next node to ansNode and give it a value of sum
         ansNode.next = new ListNode(sum)
 
@@ -32,10 +34,11 @@ var addTwoNumbers = function (l1, l2) {
 
         //go to next node of ansNode
         ansNode = ansNode.next
+        console.log("--------------------")
     }
-    
+
     //because we initialized addNode with first value as zero, then we have to return it from next value
     return addNode.next
 };
-console.log(addTwoNumbers([2,4,3],[5,6,4]));
+console.log(addTwoNumbers([2, 4, 3], [5, 6, 4]));
 
