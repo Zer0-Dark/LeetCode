@@ -1,5 +1,5 @@
 ﻿### All my LeetCode problems that i solved :D
-Total Problems : **43**
+Total Problems : **45**
 #### the problems list : 
   - 1.TwoSum
   - 2.Add Two Numbers
@@ -30,6 +30,7 @@ Total Problems : **43**
   - 88.Merge Sorted Arry
   - 121.Best Time to Buy and Sell Stock
   - 142.Linked List Cycle II
+  - 167. Two Sum II - Input Array Is Sorted
   - 169.Majority Element
   - 189.Rotate Array
   - 202.Happy Number
@@ -43,4 +44,5 @@ Total Problems : **43**
   - 876.Middle of the Linked List
   - 1071.Greatest Common Divisor of Strings
   - 1480.Running Sum of 1d Array
+  - 2620. Counter
 
