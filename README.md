@@ -1,48 +1,50 @@
-﻿### All my LeetCode problems that i solved :D
-Total Problems : **45**
-#### the problems list : 
-  - 1.TwoSum
-  - 2.Add Two Numbers
-  - 3.Longest Substring Without Repeating Characters
-  - 4.Median of Two Sorted Arrays
-  - 5.Longest Palindromic Substring
-  - 6.Zigzag Conversion
-  - 7.Reverse Integer
-  - 8.String to Integer (atoi)
-  - 9.Palindrome Number
-  - 10.Regular Expression Matching
-  - 11.Container With Most Water
-  - 12.Integer to Roman
-  - 13.Roman to Integer
-  - 14.Longest Common Prefix
-  - 15.3Sum
-  - 16.3Sum Closest
-  - 17.Letter Combinations of a Phone Number
-  - 20.Valid Parentheses
-  - 21.Merge Two Sorted Lists
-  - 26.Remove Duplicates from Sorted Array
-  - 27.Remove Element
-  - 35.Search Insert Position
-  - 55.Jump Game
-  - 58.Length of Last Word
-  - 66.Plus One
-  - 80.Remove Duplicates from Sorted Array II
-  - 88.Merge Sorted Arry
-  - 121.Best Time to Buy and Sell Stock
-  - 142.Linked List Cycle II
-  - 167. Two Sum II - Input Array Is Sorted
-  - 169.Majority Element
-  - 189.Rotate Array
-  - 202.Happy Number
-  - 205.Isomorphic Strings
-  - 206.Reverse Linked List
-  - 242.Valid Anagram
-  - 290.Word Pattern
-  - 383.Ransom Note
-  - 392.Is Subsequence
-  - 724.Find Pivot Index
-  - 876.Middle of the Linked List
-  - 1071.Greatest Common Divisor of Strings
-  - 1480.Running Sum of 1d Array
-  - 2620.Counter
+﻿# LeetCode Problems Solved
 
+Total Problems Solved: **45**
+
+## List of Problems
+
+- [1.TwoSum](https://leetcode.com/problems/two-sum/)
+- [2.Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [3.Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [5.Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [6.Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+- [7.Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+- [8.String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+- [9.Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [10.Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+- [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [12.Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+- [13.Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [15.3Sum](https://leetcode.com/problems/3sum/)
+- [16.3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [17.Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- [20.Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [27.Remove Element](https://leetcode.com/problems/remove-element/)
+- [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [55.Jump Game](https://leetcode.com/problems/jump-game/)
+- [58.Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+- [66.Plus One](https://leetcode.com/problems/plus-one/)
+- [80.Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+- [88.Merge Sorted Arry](https://leetcode.com/problems/merge-sorted-array/)
+- [121.Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [142.Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+- [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [169.Majority Element](https://leetcode.com/problems/majority-element/)
+- [189.Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [202.Happy Number](https://leetcode.com/problems/happy-number/)
+- [205.Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- [206.Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [242.Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [290.Word Pattern](https://leetcode.com/problems/word-pattern/)
+- [383.Ransom Note](https://leetcode.com/problems/ransom-note/)
+- [392.Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [724.Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+- [876.Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [1071.Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+- [1480.Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+- [2620.Counter](https://leetcode.com/problems/counter/)
