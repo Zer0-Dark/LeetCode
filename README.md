@@ -44,5 +44,5 @@ Total Problems : **45**
   - 876.Middle of the Linked List
   - 1071.Greatest Common Divisor of Strings
   - 1480.Running Sum of 1d Array
-  - 2620. Counter
+  - 2620.Counter
 
