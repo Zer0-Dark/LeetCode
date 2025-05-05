@@ -15,9 +15,11 @@ var reverseList = function (head) {
     let prev = null;
     //the current will be head for now
     let curr = head;
+    // holding the curr.next temp
+    let temp = null;
 
     while (curr) {
-        let temp = curr.next;
+        temp = curr.next;
         curr.next = prev //point instead of next to the prev to reverse it like the draw
         // we move or pointers now to make the curr is next 
         // and the prev is curr onw 
